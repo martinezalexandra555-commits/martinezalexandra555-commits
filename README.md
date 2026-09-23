@@ -1,11 +1,9 @@
-## # Hola, soy  Alexandra Castillo 
+##  Hola, soy  Alexandra Castillo 
 
 Soy desarrolladora junior enfocada en backend y lógica de programación.  
 Apasionada por aprender, mejorar y crear soluciones reales con software.
 
-<p align="center">
-  <img src="https://i.imgur.com/8zQvWcC.jpeg" width="300">
-</p>
+ <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 
 Técnica en Programación de Software – SENA  
 *Próximamente estudiante de **Ingeniería de Software**  
