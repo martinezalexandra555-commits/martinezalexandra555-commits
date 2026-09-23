@@ -3,7 +3,7 @@
 Soy desarrolladora junior enfocada en backend y lógica de programación.  
 Apasionada por aprender, mejorar y crear soluciones reales con software.
 
- <img src="https://pin.it/7wx007N8A"  width="150" height="150"/>
+ <img src="https://share.google/cNPQewgxP2N2r7ykO"  width="300" height="250"/>
 
 Técnica en Programación de Software – SENA  
 *Próximamente estudiante de **Ingeniería de Software**  
@@ -18,24 +18,24 @@ Técnica en Programación de Software – SENA
 *Me encanta crear proyectos que demuestren mi crecimiento como desarrolladora
 
 ## Tecnologías
-* Java  
+* Java
+* JavaScript
 * Python  
 * HTML/CSS  
-* SQL  
+* SQL/ORACLE
 * App Inventor  
-* Git & GitHub  
-* React (básico)  
+* Git & GitHub   
 * Node.js (básico)
- <p align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
 </p>
 
 ---
