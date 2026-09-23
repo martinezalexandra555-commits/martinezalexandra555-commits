@@ -3,7 +3,7 @@
 Soy desarrolladora junior enfocada en backend y lógica de programación.  
 Apasionada por aprender, mejorar y crear soluciones reales con software.
 
- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+ <img src="https://pin.it/7wx007N8A" alt="azure" width="70" height="70"/>
 
 Técnica en Programación de Software – SENA  
 *Próximamente estudiante de **Ingeniería de Software**  
